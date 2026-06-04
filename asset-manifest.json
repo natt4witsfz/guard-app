@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/guard-app/static/js/main.1251c3f8.js",
+    "index.html": "/guard-app/index.html",
+    "main.1251c3f8.js.map": "/guard-app/static/js/main.1251c3f8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1251c3f8.js"
+  ]
+}
